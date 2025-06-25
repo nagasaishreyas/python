@@ -1,7 +1,4 @@
-print("Hello World")
-
-print("My name is Shreyas")
-
-print("I love doing art")
-
-print("The result of 3 + 5 is:", 3 + 5)
+print("The result of 15 + 15 is:", 15 + 15)
+print("The result of 15 - 15 is:", 15 - 15)
+print("The result of 15 multiplied by 15 is:", 15 * 15)
+print("The result of 15 devided by 15 is:", 15 / 15)
